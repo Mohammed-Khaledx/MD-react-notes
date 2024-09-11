@@ -1,4 +1,12 @@
-# Getting Started
+# Project Versions
+
+This project has two versions:
+
+1. **Local Storage Version** - stored in the `main` branch.
+2. **Firebase Version** - stored in the `firebase-version` branch.
+
+
+## Getting Started
 Install the dependencies and run the project
 ```
 npm install
